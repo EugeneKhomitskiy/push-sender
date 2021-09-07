@@ -1,0 +1,4 @@
+package pusher
+
+const val dbUrl = ""
+const val token = "c7ap6wB3TimaiGU3J3XSwl:APA91bE0hyz9yt2Xh6SFMClGI7G9Sg4TDMwbfT7dc3hcij8cMPemAhbJZU5NyJaRdB1gkLA9FxZ1s7-iznxUyOt9HVv-MyzhxG1u94_-RD9KMvyT2x4fjyDYDNV0HMavIHRZfPVWbbgh"
